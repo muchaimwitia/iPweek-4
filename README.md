@@ -20,3 +20,5 @@ The Text editor was used in writing the ReadMe.
 Phone Number: 0705800911 Email : muchairiungu@gmail.com
 
 # LICENSE
+MIT Copyright (c) 2020 **[MITlicense](LICENSE)**
+
