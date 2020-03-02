@@ -5,7 +5,7 @@ My Pizza Web Application
 
 The Author of this project is a student at Moringa School currently taking part in the Prep Program.
 
-# DESCRIPTION.
+## DESCRIPTION.
 This is a web application in which contains all the work I have done during my Fourth week of learning at MORINGA School.
 
 # Setup/Installation Requirements
