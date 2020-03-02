@@ -15,7 +15,7 @@ Clone this Repository onto your device then open the file and it will lead you t
 * HTML
 * JavaScript
 * CSS
-# CONTACTS
+## CONTACTS
 Phone Number: 0705800911 Email : muchairiungu@gmail.com
 
 # LICENSE
