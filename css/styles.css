@@ -19,3 +19,7 @@ H1 {
   text-align: center;
   text-decoration: wavy;
 }
+.p {
+  text-align: center;
+  text-overflow: inherit;
+}
