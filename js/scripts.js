@@ -1,20 +1,20 @@
-function getSizeValue() {
-  var selectedValue = document.getElementById("size").value;
+function getValue() {
+  var selectedValue = document.getElementById("Size").value;
   return parseInt(selectedValue);
 }
 function getToppingsDensity() {
   var selectedCrust = document.getElementById("Toppings density").value;
-  return parseInt(selectedCrust);
+  return parseInt(selectedToppingsDensity);
 }
 function getCrustThickness() {
   var selectedToppings = document.getElementById("Crust thickness").value;
-  return parseInt(selectedToppings);
+  return parseInt(selectedCrustThickness);
 }
-function getQuantity() {
+function getNumber() {
   var selectedNumber = document.getElementById("Number").value;
-  return parseInt(selectedQuantity);
+  return parseInt(selectedNumber);
 }
-function getTotalAmount() {
-  var totalAmount = (getSizeValue() + getCrust() + getToppings()) * getQuantity();
-  alert("You have Orderd" + getQuantity() + " pizza(s)." + "" + " The Total Amount is " + (totalAmount) + "" + " Thank you!");
+function getTotal() {
+  var totalAmount = (getValue() + getCrustThickness() + getToppingsThickness()) * getTotal();
+  alert("You have successfully orderd" + getQuantity() + " pizza(s) from Pizzeria Laventino." + "" + " The Total Amount is " + (totalAmount) + "" + " Thank you and Come again!");
 }
